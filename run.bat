@@ -1,7 +1,7 @@
 @echo off
 echo Starting SmartFin AI...
 
-cd /d "%~dp0smartfin-ai"
+cd /d "%~dp0"
 
 REM Start Backend
 echo Starting Backend (FastAPI)...
